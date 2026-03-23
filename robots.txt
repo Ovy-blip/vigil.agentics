@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vigil.agenticstechnology.tech/sitemap.xml
